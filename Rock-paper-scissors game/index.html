@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stone Paper Scissor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <section id="rules">
+        <h2>📜 Game Rules</h2>
+        <ul>
+            <li>The game is played in <strong>rounds of 5 matches</strong>.</li>
+            <li>Each match, choose between ✊ Rock, 🖐 Paper, or ✌ Scissor.</li>
+            <li>After 5 matches, the player with more wins wins the round.</li>
+            <li>If both have the same score, it's a tie round.</li>
+        </ul>
+    </section>
+
+
+    <p id="scores">
+        <span>Your score: <span id="user-score">0</span></span>
+        <span>Computer score: <span id="comp-score">0</span></span>
+        <span>Match: <span id="match-count">0</span>/5</span>
+    </p>
+
+    <h1>Stone Paper Scissor Game</h1>
+
+    <div class="btns">
+        <button id="rock">&#x1f44a;</button>
+        <button id="paper">&#x1f590;</button>
+        <button id="scissor">&#x270c;</button>
+    </div>
+
+    <div class="choices">
+        <div class="hand" id="user-hand">🤜</div>
+        <div class="vs">VS</div>
+        <div class="hand" id="comp-hand">🤛</div>
+    </div>
+
+
+    <h1 id="result">Result...</h1>
+
+    <script src="script.js"></script>
+</body>
+</html>
