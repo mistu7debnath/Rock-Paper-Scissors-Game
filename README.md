@@ -7,7 +7,7 @@ A fun and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScr
 
 - 👊🖐️✌️ Visual hand signs that animate like real gameplay
 - 🎵 Sound effects for win, lose, tie, and round results
-- 🏁 Round-based system (Best of 5 matches)
+- 🏁 Round-based system playing (Best of 5 matches)
 - 📜 Rules displayed clearly for new users
 
 ## 📋 Rules
