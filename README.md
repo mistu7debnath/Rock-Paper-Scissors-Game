@@ -23,3 +23,5 @@ A fun and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScr
 - **CSS** – styling and animations
 - **JavaScript** – logic, interactivity, and sounds
 
+- Thank you for visiting
+
