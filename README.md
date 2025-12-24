@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-Game
 # ✊🖐️✌️ Rock Paper Scissors Game
 
-A fun and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript! This version includes visual hand animations, sound effects, round-based gameplay. 🎮
+A fun and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript! This version includes visual hand animations, sound effects and round-based gameplay. 🎮
 
 ## 🎯 Features
 
