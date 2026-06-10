@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Game
 
-🎯 About The Project
+🎯 About The Project:
 
 A modern and interactive version of the classic Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 ## 🎯 Features
