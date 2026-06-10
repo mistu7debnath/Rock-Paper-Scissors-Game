@@ -2,8 +2,7 @@
 
 🎯 About The Project
 
-A fun and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript! This version includes visual hand animations, sound effects and round-based gameplay. 🎮
-
+A modern and interactive version of the classic Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 ## 🎯 Features
 
 - 👊🖐️✌️ Visual hand signs that animate like real gameplay
