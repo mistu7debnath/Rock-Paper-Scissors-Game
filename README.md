@@ -12,6 +12,8 @@ This project goes beyond the traditional game by adding:
 - 🏆 Best-of-5 round system
 - 📜 Rules displayed clearly for new users
 - ⚡ Real-time result updates
+
+  Whether you're playing for fun or exploring front-end development concepts, 
 ## 📋 Rules:
 
 - One round contains **5 matches**.
