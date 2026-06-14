@@ -9,7 +9,7 @@ This project goes beyond the traditional game by adding:
 
 - 👊🖐️✌️ Visual hand signs that animate like real gameplay
 - 🎵 Sound effects for win, lose, tie, and round results
-- 🏁 Round-based system playing (Best of 5 matches)
+- 🏆 Best-of-5 round system
 - 📜 Rules displayed clearly for new users
 
 ## 📋 Rules:
