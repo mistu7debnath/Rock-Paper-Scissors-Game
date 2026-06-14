@@ -13,7 +13,8 @@ This project goes beyond the traditional game by adding:
 - 📜 Rules displayed clearly for new users
 - ⚡ Real-time result updates
 
-  Whether you're playing for fun or exploring front-end development concepts, this projects delivers an engaging
+  Whether you're playing for fun or exploring front-end development concepts, this projects delivers an engaging experiment.
+  
 ## 📋 Rules:
 
 - One round contains **5 matches**.
