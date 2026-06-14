@@ -10,7 +10,7 @@ A modern and interactive version of the classic Rock Paper Scissors game built u
 - 🏁 Round-based system playing (Best of 5 matches)
 - 📜 Rules displayed clearly for new users
 
-## 📋 Rules
+## 📋 Rules:
 
 - One round contains **5 matches**.
 - Win at least **3 out of 5** to win the round.
