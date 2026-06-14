@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Game
+# Rock-Paper-Scissors-Game:-
 
 🎯 About The Project:
 
@@ -22,7 +22,7 @@ This project goes beyond the traditional game by adding:
 - Each match will show your and the computer's hand.
 - Play again as many rounds as you like!
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 - **HTML** – structure and layout
 - **CSS** – styling and animations
