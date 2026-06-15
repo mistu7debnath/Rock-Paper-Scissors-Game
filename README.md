@@ -19,7 +19,7 @@ This project goes beyond the traditional game by adding:
 
 - One round contains total **5 matches**.
 - Win at least **3  rounds out of 5** to win the round.
-- Each match will show your and the computer's hand.
+- Each rounds will show your and the computer's hand.
 - Play again as many rounds as you like!
 
 ## 🛠️ Tech Stack:
