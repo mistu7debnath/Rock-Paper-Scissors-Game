@@ -17,7 +17,7 @@ This project goes beyond the traditional game by adding:
   
 ## 📋 Rules:
 
-- One round contains **5 matches**.
+- One round contains total **5 matches**.
 - Win at least **3 out of 5** to win the round.
 - Each match will show your and the computer's hand.
 - Play again as many rounds as you like!
