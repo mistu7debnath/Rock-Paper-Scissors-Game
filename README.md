@@ -29,7 +29,7 @@ This project goes beyond the traditional game by adding:
 - **JavaScript** – logic, interactivity, and sounds
   
 
-  **✨ Thank you for visiting my repository! ✨**
+  **✨ Thank you very for visiting my repository! ✨**
 
 
 
